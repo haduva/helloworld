@@ -1,5 +1,11 @@
  public class HelloWorld {
       public static void main(String[] args) {
+<<<<<<< HEAD
            System.out.println("Hello, Hatice!");
+=======
+           System.out.println("Hello, world!");
+           System.out.println("Hello, to you also :-)!");
+System.out.println("Hello, Rasmus!”);
+>>>>>>> afce6311e7ec773a5a5020f42cab6f0ca0860a17
       }
  }
